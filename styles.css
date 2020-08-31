@@ -1,0 +1,28 @@
+.Frame
+{
+background-color:lightcyan;
+}
+#Welcomebox
+{
+    display: flex;
+    justify-content: center;
+    font-family:sans-serif;
+    color:rosybrown;
+    
+}
+#Welcomebox > .welcome-header > .Pic
+{
+    padding-right: 10%;
+    margin-right: 15%;
+}
+.contact-section, .contact-section-header 
+{
+    display: flex;
+    align-content: center;
+    
+}
+h5{
+    text-align: center;
+    display: inline;
+    justify-content: center;
+}
